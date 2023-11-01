@@ -1,4 +1,4 @@
-<h1 align="center">Workshop Name</h1>
+<h1 align="center">College to Corporate: Data Science</h1>
 
 <p align="center"><b><i>Created by <a href="https://github.com/shefali-pai">@shefali-pai</a> for Carolina Analytics and Data Science on Nov. 1, 2023</b></i></p>
 
